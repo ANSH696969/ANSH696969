@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ansh Sahu𒉭 and I build websites, I am a weber🕸️</h2>
+<h2 align="left">Hi 👋! My name is Ansh Sahu𒉭, I build websites, I am a weber🕸️</h2>
 
 ###
 
@@ -84,7 +84,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://media1.tenor.com/m/M3kFw4YpxMYAAAAC/berserk.gif"  />
+  <img height="200" src="https://media.tenor.com/Y5ajJZ_4YFgAAAAM/the-end.gif"  />
 </div>
 
 ###
