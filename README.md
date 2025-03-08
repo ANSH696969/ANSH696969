@@ -13,7 +13,7 @@
 
 - 💻 𝕮𝖗𝖊𝖆𝖙𝖎𝖓𝖌 **𝕯𝖞𝖓𝖆𝖒𝖎𝖈** & **𝕀𝕟𝕥𝕖𝕣𝕒𝕔𝕥𝕚𝕧𝕖** 𝖜𝖊𝖇 𝖆𝖕𝖕𝖘!  
 - 📊 𝕰𝖝𝖕𝖑𝖔𝖗𝖎𝖓𝖌 **𝕯𝖆𝖙𝖆 𝕬𝖓𝖆𝖑𝖞𝖙𝖎𝖈𝖘** & **𝕬𝖕𝖕 𝕯𝖊𝖛** 🚀  
-- 🎨 Ui/UX **𝕯𝖊𝖘𝖎𝖌𝖓𝖎𝖓𝖌** 𝖎𝖘 𝖒𝖞 𝖘𝖊𝖈𝖗𝖊𝖙 𝖜𝖊𝖆𝖕𝖔𝖓! 🎯  
+- 🎨 𝔘𝔈/𝔘𝔛 **𝕯𝖊𝖘𝖎𝖌𝖓𝖎𝖓𝖌** 𝖎𝖘 𝖒𝖞 𝖘𝖊𝖈𝖗𝖊𝖙 𝖜𝖊𝖆𝖕𝖔𝖓! 🎯  
 - 🔥 𝕲𝖔𝖆𝖑: **𝕮𝖔𝖑𝖑𝖆𝖇𝖔𝖗𝖆𝖙𝖊** & **𝕲𝖆𝖎𝖓 𝕀𝕟𝕕𝕦𝕤𝕥𝕣𝕪 𝔼𝕩𝕡𝕖𝕣𝕚𝕖𝕟𝕔𝕖** 🚀  
 
 ---
@@ -21,9 +21,9 @@
 ## 📈 𝕲𝖎𝖙𝖍𝖚𝖇 𝕾𝖙𝖆𝖙𝖘  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ANSH696969&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=ANSH696969&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ANSH696969&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ANSH696969&show_icons=true&theme=gruvbox&hide_border=true&title_color=FF4500&icon_color=FF4500&text_color=DCDCDC&bg_color=0D1117" height="180" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=ANSH696969&theme=gruvbox&hide_border=true&ring=FF4500&fire=FF4500&sideNums=FF6347&currStreakNum=FF4500" height="180" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ANSH696969&layout=compact&langs_count=6&theme=gruvbox&hide_border=true&title_color=FF4500&text_color=DCDCDC&bg_color=0D1117" height="180" alt="Top Languages" />
 </div>
 
 ---
