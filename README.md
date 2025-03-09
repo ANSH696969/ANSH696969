@@ -1,5 +1,5 @@
-<h1 align="center">H𝖊𝖞 𝖙𝖍𝖊𝖗𝖊 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">! 𝐈'𝐦 𝐀𝐧𝐬𝐡 𝐒𝐚𝐡𝐮𒉭</h1>
-<p align="center"><b>⚡ 𝔽𝕦𝕝𝕝-𝕊𝕥𝕒𝕔𝕜 𝕎𝕚𝕫𝕒𝕣𝕕 🧙‍♂️ | 𝔻𝕒𝕥𝕒 𝕄𝕒𝕘𝕚𝕔𝕚𝕒𝕟 📊 | 𝔸𝕡𝕡 𝔸𝕣𝕔𝕙𝕚𝕥𝕖𝕔𝕥 📱</b></p>
+<h1 align="center"><b><i>Hey there</i></b> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">! <br> I'm <span style="font-family: 'Courier New', monospace;">Ansh Sahu𒉭</span></h1>
+<p align="center"><b><i>⚡ Full-Stack Wizard 🧙‍♂️ | Data Magician 📊 | App Architect 📱</i></b></p>
 
 ---
 
@@ -9,16 +9,16 @@
 
 ---
 
-## 🚀 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞
+## 🚀 <i><span style="color:#FF4500;">About Me</span></i>
 
-- 💻 𝕮𝖗𝖊𝖆𝖙𝖎𝖓𝖌 **𝕯𝖞𝖓𝖆𝖒𝖎𝖈** & **𝕀𝕟𝕥𝕖𝕣𝕒𝕔𝕥𝕚𝕧𝕖** 𝖜𝖊𝖇 𝖆𝖕𝖕𝖘!  
-- 📊 𝕰𝖝𝖕𝖑𝖔𝖗𝖎𝖓𝖌 **𝕯𝖆𝖙𝖆 𝕬𝖓𝖆𝖑𝖞𝖙𝖎𝖈𝖘** & **𝕬𝖕𝖕 𝕯𝖊𝖛** 🚀  
-- 🎨 𝔘𝔈/𝔘𝔛 **𝕯𝖊𝖘𝖎𝖌𝖓𝖎𝖓𝖌** 𝖎𝖘 𝖒𝖞 𝖘𝖊𝖈𝖗𝖊𝖙 𝖜𝖊𝖆𝖕𝖔𝖓! 🎯  
-- 🔥 𝕲𝖔𝖆𝖑: **𝕮𝖔𝖑𝖑𝖆𝖇𝖔𝖗𝖆𝖙𝖊** & **𝕲𝖆𝖎𝖓 𝕀𝕟𝕕𝕦𝕤𝕥𝕣𝕪 𝔼𝕩𝕡𝕖𝕣𝕚𝕖𝕟𝕔𝕖** 🚀  
+- 💻 Creating **<i>Dynamic</i>** & **<i>Interactive</i>** web apps!  
+- 📊 Exploring **<i>Data Analytics</i>** & **<i>App Dev</i>** 🚀  
+- 🎨 UI/UX **<i>Designing</i>** is my secret weapon! 🎯  
+- 🔥 Goal: **<i>Collaborate</i>** & **<i>Gain Industry Experience</i>** 🚀  
 
 ---
 
-## 📈 𝕲𝖎𝖙𝖍𝖚𝖇 𝕾𝖙𝖆𝖙𝖘  
+## 📈 <i><span style="color:#FF4500;">GitHub Stats</span></i>  
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ANSH696969&show_icons=true&theme=gruvbox&hide_border=true&title_color=FF4500&icon_color=FF4500&text_color=DCDCDC&bg_color=0D1117" height="180" alt="GitHub Stats" />
@@ -28,16 +28,33 @@
 
 ---
 
-## 🛠️ 𝕿𝖊𝖈𝖍 𝕾𝖙𝖆𝖈𝖐  
+## 🛠️ <i><span style="color:#FF4500;">Tech Stack</span></i>  
 
+### 🖥️ Languages & Scripting  
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,html,css,react,next,nodejs,express,mongodb,tailwind,git,github,docker,aws" />
-  <img align="right" height="150" src="https://media1.tenor.com/m/GfSX-u7VGM4AAAAC/coding.gif" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts" />
 </div>
+
+### 🎨 Frontend Development  
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,next,bootstrap,tailwind" />
+</div>
+
+### 🔧 Backend & Databases  
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,supabase" />
+</div>
+
+### 🚀 DevOps & Tools  
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws" />
+</div>
+
+<img align="right" height="150" src="https://media1.tenor.com/m/GfSX-u7VGM4AAAAC/coding.gif" />
 
 ---
 
-## 📬 𝕮𝖔𝖓𝖓𝖊𝖈𝖙 𝕨𝖎𝖙𝖍 𝕸𝖊  
+## 📬 <i><span style="color:#FF4500;">Connect with Me</span></i>  
 
 <div align="center">
   <a href="https://www.instagram.com/ansh_sahuji___/" target="_blank">
@@ -56,13 +73,13 @@
 
 ---
 
-## 🎮 𝕱𝖚𝖓 𝕱𝖆𝖈𝖙  
+## 🎮 <i><span style="color:#FF4500;">Fun Fact</span></i>  
 
-> **"𝕋𝕙𝕖𝕣𝕖 𝕒𝕣𝕖 𝟙𝟘 𝕥𝕪𝕡𝕖𝕤 𝕠𝕗 𝕡𝕖𝕠𝕡𝕝𝕖 𝕚𝕟 𝕥𝕙𝕖 𝕨𝕠𝕣𝕝𝕕: 𝕥𝕙𝕠𝕤𝕖 𝕨𝕙𝕠 𝕦𝕟𝕕𝕖𝕣𝕤𝕥𝕒𝕟𝕕 𝕓𝕚𝕟𝕒𝕣𝕪, 𝕒𝕟𝕕 𝕥𝕙𝕠𝕤𝕖 𝕨𝕙𝕠 𝕕𝕠𝕟’𝕥."** 😆
+> **"There are 10 types of people in the world: those who understand binary, and those who don’t."** 😆  
 
 ---
 
-## 🐍 𝕮𝖔𝖓𝖙𝖗𝖎𝖇𝖚𝖙𝖎𝖔𝖓 𝕲𝖗𝖆𝖕𝖍  
+## 🐍 <i><span style="color:#FF4500;">Contribution Graph</span></i>  
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/ANSH696969/ANSH696969/output/snake.svg" alt="Snake Animation" />
@@ -76,4 +93,4 @@
 
 ---
 
-⭐ **𝕿𝖍𝖆𝖓𝖐𝖘 𝖋𝖔𝖗 𝖘𝖙𝖔𝖕𝖕𝖎𝖓' 𝖇𝖞! 𝕮𝖍𝖊𝖊𝖗𝖘!** 😎
+⭐ **<i>Thanks for stopping by! Cheers!</i>** 😎  
