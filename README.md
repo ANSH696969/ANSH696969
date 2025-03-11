@@ -1,7 +1,7 @@
-<img src="https://i.pinimg.com/originals/1d/30/b5/1d30b5a0c298c02edaf2f501b22a6587.gif" width="100%">
+
 
 <h1 align="center" style="font-family: 'Courier New', monospace; color: #FF4500; text-shadow: 2px 2px 4px #FF00FF, 0 0 10px #FF4500; letter-spacing: 3px;">
-  <img src="https://i.pinimg.com/originals/4c/af/63/4caf635ca219d2899347d2af81938629.gif" width="100%"><br><b><i>Hey there</i></b> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">! <br> I'm <span style="font-family: 'Courier New', monospace; color: #FFFFFF;">Ansh Sahu𒉭</span></h1>
+  <img src="/.github/workflows/download (2).gif" width="100%"><br><b><i>Hey there</i></b> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">! <br> I'm <span style="font-family: 'Courier New', monospace; color: #FFFFFF;">Ansh Sahu𒉭</span></h1>
 <p align="center" style="font-family: Arial, sans-serif; font-size: 1.2em; color: #DCDCDC; text-shadow: 1px 1px 2px #FF4500;"><b><i>⚡ Full-Stack Wizard 🧙‍♂️ | Data Magician 📊 | App Architect 📱</i></b></p>
 
 ---
