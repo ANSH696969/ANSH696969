@@ -1,4 +1,7 @@
-<h1 align="center" style="font-family: 'Courier New', monospace; color: #FF4500; text-shadow: 2px 2px 4px #FF00FF, 0 0 10px #FF4500; letter-spacing: 3px;"><b><i>Hey there</i></b> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">! <br> I'm <span style="font-family: 'Courier New', monospace; color: #FFFFFF;">Ansh Sahu𒉭</span></h1>
+<img src="https://i.pinimg.com/originals/1d/30/b5/1d30b5a0c298c02edaf2f501b22a6587.gif" width="100%">
+
+<h1 align="center" style="font-family: 'Courier New', monospace; color: #FF4500; text-shadow: 2px 2px 4px #FF00FF, 0 0 10px #FF4500; letter-spacing: 3px;">
+  <img src="https://i.pinimg.com/originals/4c/af/63/4caf635ca219d2899347d2af81938629.gif" width="100%"><br><b><i>Hey there</i></b> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">! <br> I'm <span style="font-family: 'Courier New', monospace; color: #FFFFFF;">Ansh Sahu𒉭</span></h1>
 <p align="center" style="font-family: Arial, sans-serif; font-size: 1.2em; color: #DCDCDC; text-shadow: 1px 1px 2px #FF4500;"><b><i>⚡ Full-Stack Wizard 🧙‍♂️ | Data Magician 📊 | App Architect 📱</i></b></p>
 
 ---
@@ -9,7 +12,7 @@
 
 ---
 
-## <span style="font-family: 'Courier New', monospace; color: #FF4500; text-shadow: 1px 1px 3px #FF00FF;">🚀 About Me</span>
+## <span style="font-family: 'Courier New', monospace; color: #FF4500; text-shadow: 1px 1px 3px #FF00FF;"><img src="https://media.tenor.com/g-aya7PJh2EAAAAM/me-get-jammed-on.gif" width="30px"> About Me</span>
 
 - <span style="font-family: Arial, sans-serif; color: #DCDCDC;">💻 Creating **<i style="font-family: 'Courier New', monospace; color: #FF4500;">Dynamic</i>** & **<i style="font-family: 'Courier New', monospace; color: #FF4500;">Interactive</i>** web apps!</span>  
 - <span style="font-family: Arial, sans-serif; color: #DCDCDC;">📊 Exploring **<i style="font-family: 'Courier New', monospace; color: #FF4500;">Data Analytics</i>** & **<i style="font-family: 'Courier New', monospace; color: #FF4500;">App Dev</i>** 🚀</span>  
@@ -18,7 +21,7 @@
 
 ---
 
-## <span style="font-family: 'Courier New', monospace; color: #FF4500; text-shadow: 1px 1px 3px #FF00FF;">📈 GitHub Stats</span>  
+## <span style="font-family: 'Courier New', monospace; color: #FF4500; text-shadow: 1px 1px 3px #FF00FF;"><img src="https://media.tenor.com/LSHKMiRdLggAAAAm/statistics-trending-up.webp" width="30px"> GitHub Stats</span>  
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ANSH696969&show_icons=true&theme=gruvbox&hide_border=true&title_color=FF4500&icon_color=FF4500&text_color=DCDCDC&bg_color=0D1117" height="180" alt="GitHub Stats" />
@@ -28,7 +31,7 @@
 
 ---
 
-## <span style="font-family: 'Courier New', monospace; color: #FF4500; text-shadow: 1px 1px 3px #FF00FF;">🛠️ Tech Stack</span>  
+## <span style="font-family: 'Courier New', monospace; color: #FF4500; text-shadow: 1px 1px 3px #FF00FF;"><img src="https://media.tenor.com/H9uhBUzf2xwAAAAM/hacker-test.gif" width="30px"> Tech Stack</span>  
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; padding: 10px;">
   <img style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2) rotate(10deg)';" onmouseout="this.style.transform='scale(1) rotate(0deg)';" src="https://img.shields.io/badge/C-🔧-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
@@ -90,7 +93,7 @@
 
 ## <span style="font-family: 'Courier New', monospace; color: #FF4500; text-shadow: 1px 1px 3px #FF00FF;">🎮 Fun Fact</span>  
 
-> <span style="font-family: Arial, sans-serif; color: #DCDCDC; text-shadow: 1px 1px 2px #FF4500;">**"There are 10 types of people in the world: those who understand binary, and those who don’t."** 😆</span>  
+> <span style="font-family: Arial, sans-serif; color: #DCDCDC; text-shadow: 1px 1px 2px #FF4500;">**"There are 10 types of people in the world: those who understand binary, and those who don't."** 😆</span>  
 
 ---
 
