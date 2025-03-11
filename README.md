@@ -22,7 +22,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ANSH696969&show_icons=true&theme=gruvbox&hide_border=true&title_color=FF4500&icon_color=FF4500&text_color=DCDCDC&bg_color=0D1117" height="180" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=ANSH696969&theme=gruvbox&hide_border=true&ring=FF4500&fire=FF4500&sideNums=FF6347&currStreakNum=FF4500" height="180" alt="GitHub Streak" />
+  <img src="https://streak-stats.vercel.app?user=ANSH696969&theme=gruvbox&hide_border=true&ring=FF4500&fire=FF4500&sideNums=FF6347&currStreakNum=FF4500" height="180" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ANSH696969&layout=compact&langs_count=6&theme=gruvbox&hide_border=true&title_color=FF4500&text_color=DCDCDC&bg_color=0D1117" height="180" alt="Top Languages" />
 </div>
 
