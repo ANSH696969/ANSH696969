@@ -71,7 +71,6 @@
 <img align="right" height="150" src="https://media1.tenor.com/m/GfSX-u7VGM4AAAAC/coding.gif" />
 
 ---
-
 ## <span style="font-family: 'Courier New', monospace; color: #FF4500; text-shadow: 1px 1px 3px #FF00FF;">📬 Connect with Me</span>  
 
 <div align="center">
@@ -86,6 +85,9 @@
   </a>
   <a href="https://x.com/anshsah90369426" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://ansh-portfolio14.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF4500?style=for-the-badge&logo=netlify&logoColor=white" />
   </a>
 </div>
 
