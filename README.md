@@ -1,7 +1,7 @@
 
 
 <h1 align="center" style="font-family: 'Courier New', monospace; color: #FF4500; text-shadow: 2px 2px 4px #FF00FF, 0 0 10px #FF4500; letter-spacing: 3px;">
- <i> <img src="https://i.pinimg.com/originals/a7/00/e8/a700e868c450e35ef735e7a2ddc3191d.gif" width="100%"/>Hey there</i></b> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">! <br> I'm <span style="font-family: 'Courier New', monospace; color: #FFFFFF;">Ansh Sahu𒉭</span></h1>
+ <i> <img src="https://i.pinimg.com/originals/c6/ad/2e/c6ad2ec1fbc13a378d668b5c58a427ed.gif" width="100%"/>Hey there</i></b> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">! <br> I'm <span style="font-family: 'Courier New', monospace; color: #FFFFFF;">Ansh Sahu𒉭</span></h1>
 <p align="center" style="font-family: Arial, sans-serif; font-size: 1.2em; color: #DCDCDC; text-shadow: 1px 1px 2px #FF4500;"><b><i>⚡ Full-Stack Wizard 🧙‍♂️ | Data Magician 📊 | App Architect 📱</i></b></p>
 
 ---
