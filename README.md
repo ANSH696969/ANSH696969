@@ -4,7 +4,7 @@
   <br/>
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
   <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&color=00FF00&center=true&vCenter=true&lines=Hey+there!;I'm+Ansh+Sahu𒉭;coder????;developer??!!;Nahhhh;Sleepatron-3000(≧∇≦)😴" alt="Typing animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&color=00FF00&center=true&vCenter=true&lines=Hey+there!;I'm+Ansh+Sahu𒉭;coder????;developer??!!;Nahhhh;Napster(≧∇≦)😴" alt="Typing animation">
 </h1>
 
 <p align="center" style="font-family: Arial, sans-serif; font-size: 1.2em; color: #DCDCDC; text-shadow: 1px 1px 2px #FF4500;"><b><i>⚡ Full-Stack Wizard 🧙‍♂️ | Data Magician 📊 | App Architect 📱</i></b></p>
