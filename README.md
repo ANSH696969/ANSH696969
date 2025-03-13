@@ -1,11 +1,15 @@
-
 <h1 align="center">
   <img src="https://i.pinimg.com/originals/a7/00/e8/a700e868c450e35ef735e7a2ddc3191d.gif" width="100%" height="350"/>
   <br/>
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
   <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&color=00FF00&center=true&vCenter=true&lines=Hey+there!;I'm+Ansh+Sahu𒉭;coder????;developer??!!;Nahhhh;Napster(≧∇≦)😴" alt="Typing animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=100&color=00FF00&center=true&vCenter=true&lines=Hey+there!_;I'm+Ansh+Sahu𒉭_;coder????_;developer??!!_;Nahhhh_;Napster(≧∇≦)😴_" alt="Typing animation">
 </h1>
+
+
+
+
+
 
 <p align="center" style="font-family: Arial, sans-serif; font-size: 1.2em; color: #DCDCDC; text-shadow: 1px 1px 2px #FF4500;"><b><i>⚡ Full-Stack Wizard 🧙‍♂️ | Data Magician 📊 | App Architect 📱</i></b></p>
 
