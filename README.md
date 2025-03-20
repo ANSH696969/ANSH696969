@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://i.pinimg.com/originals/a7/00/e8/a700e868c450e35ef735e7a2ddc3191d.gif" width="100%" height="350"/>
+  <img src="https://i.gifer.com/Dhug.gif" width="100%" height="450"/>
   <br/>
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
   <br>
@@ -21,7 +21,7 @@
 
 ---
 
-## <span style="font-family: 'Courier New', monospace; color: #FF4500; text-shadow: 1px 1px 3px #FF00FF;"><img src="https://media.tenor.com/g-aya7PJh2EAAAAM/me-get-jammed-on.gif" width="30px"> About Me</span>
+## <span style="font-family: 'Courier New', monospace; color: #FF4500; text-shadow: 1px 1px 3px #FF00FF;"><img src="https://media.tenor.com/g-aya7PJh2EAAAAM/me-get-jammed-on.gif" width="60px"> About Me</span>
 
 - <span style="font-family: Arial, sans-serif; color: #DCDCDC;">💻 Creating **<i style="font-family: 'Courier New', monospace; color: #FF4500;">Dynamic</i>** & **<i style="font-family: 'Courier New', monospace; color: #FF4500;">Interactive</i>** web apps!</span>  
 - <span style="font-family: Arial, sans-serif; color: #DCDCDC;">📊 Exploring **<i style="font-family: 'Courier New', monospace; color: #FF4500;">Data Analytics</i>** & **<i style="font-family: 'Courier New', monospace; color: #FF4500;">App Dev</i>** 🚀</span>  
@@ -30,7 +30,7 @@
 
 ---
 
-## <span style="font-family: 'Courier New', monospace; color: #FF4500; text-shadow: 1px 1px 3px #FF00FF;"><img src="https://media.tenor.com/LSHKMiRdLggAAAAm/statistics-trending-up.webp" width="30px"> GitHub Stats</span>  
+## <span style="font-family: 'Courier New', monospace; color: #FF4500; text-shadow: 1px 1px 3px #FF00FF;"><img src="https://media.tenor.com/LSHKMiRdLggAAAAm/statistics-trending-up.webp" width="60px"> GitHub Stats</span>  
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ANSH696969&show_icons=true&theme=gruvbox&hide_border=true&title_color=FF4500&icon_color=FF4500&text_color=DCDCDC&bg_color=0D1117" height="180" alt="GitHub Stats" />
@@ -40,7 +40,7 @@
 
 ---
 
-## <span style="font-family: 'Courier New', monospace; color: #FF4500; text-shadow: 1px 1px 3px #FF00FF;"><img src="https://media.tenor.com/H9uhBUzf2xwAAAAM/hacker-test.gif" width="30px"> Tech Stack</span>  
+## <span style="font-family: 'Courier New', monospace; color: #FF4500; text-shadow: 1px 1px 3px #FF00FF;"><img src="https://media.tenor.com/H9uhBUzf2xwAAAAM/hacker-test.gif" width="60px"> Tech Stack</span>  
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; padding: 10px;">
   <img style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2) rotate(10deg)';" onmouseout="this.style.transform='scale(1) rotate(0deg)';" src="https://img.shields.io/badge/C-🔧-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
@@ -80,7 +80,7 @@
 <img align="right" height="150" src="https://media1.tenor.com/m/GfSX-u7VGM4AAAAC/coding.gif" />
 
 ---
-## <span style="font-family: 'Courier New', monospace; color: #FF4500; text-shadow: 1px 1px 3px #FF00FF;">📬 Connect with Me</span>  
+## <span style="font-family: 'Courier New', monospace; color: #FF4500; text-shadow: 1px 1px 3px #FF00FF;"><img src="https://i.gifer.com/origin/4d/4dc11d17f5292fd463a60aa2bbb41f6a_w200.webp" width="50px"> Connect with me</span>  
 
 <div align="center">
   <a href="https://www.instagram.com/ansh_sahuji___/" target="_blank">
