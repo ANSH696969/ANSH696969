@@ -127,12 +127,17 @@
       <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31cgswzgybt4wfqmdvzq4dre2m2e&redirect=true">
         <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31cgswzgybt4wfqmdvzq4dre2m2e&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false">
       </a>
+      <br>
+      <a href="https://spotify-github-profile.kittinanx.com/api/recently-played.svg?uid=31cgswzgybt4wfqmdvzq4dre2m2e">
+        <img src="https://spotify-github-profile.kittinanx.com/api/recently-played.svg?uid=31cgswzgybt4wfqmdvzq4dre2m2e">
+      </a>
     </td>
     <td>
       <img src="https://i.gifer.com/origin/79/79c9bd19c3c5e678ff2b42f93234d7f9_w200.webp" width=100%>
     </td>
   </tr>
 </table>
+
 
 
 <div align="center">
